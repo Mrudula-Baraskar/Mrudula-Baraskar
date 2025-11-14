@@ -1,42 +1,29 @@
-Here is your **upgraded, clean, dark-brown aesthetic, stylish, corrected, beautifully formatted** README 🤎✨
-You can copy–paste directly into your README.md.
-
----
-
-# 🌑🤎 **Hi, I'm Mrudula Baraskar** 👋
+# 🤎 **Mrudula Baraskar**
 
 ### *Aspiring Full-Stack Developer | BCA Student*
 
-### *Learning Every Day ✨*
+### *Focused on learning, building, and improving every day.*
 
 ---
 
-## ✧ **🌱 Currently Learning**
+## 🔍 **About Me**
+
+I’m a BCA student passionate about web development and problem-solving.
+Currently learning JavaScript, Python, and DSA while building projects to strengthen my fundamentals.
+
+---
+
+## 🌱 **Currently Learning**
 
 * JavaScript (Beginner → Advanced)
-* Python (NxtWave)
-* C++ & Data Structures (College)
+* Python (NxtWave Program)
+* C++ & Data Structures
 * Frontend: HTML · CSS · Bootstrap
-* Building portfolio & mini-projects
-
-```
-─────────────── 🤎 ───────────────
-```
+* Portfolio & mini-projects
 
 ---
 
-## ✧ **📫 How to Reach Me**
-
-* **LinkedIn:**
-  [https://www.linkedin.com/in/mrudula-barasakar/](https://www.linkedin.com/in/mrudula-barasakar/)
-
-```
-─────────────── 🤎 ───────────────
-```
-
----
-
-## ✧ **🛠️ Tech Stack**
+## 🛠️ **Tech Stack**
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,python,cpp,c" />
@@ -46,18 +33,29 @@ You can copy–paste directly into your README.md.
 
 ---
 
-# ╔══ ❀ • ✧ • ❀ ══╗
+## 📊 **GitHub Stats**
 
-### *“Code softly. Create boldly.”*
-
-# ╚══ 🤎 • ✧ • 🤎 ══╝
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mrudula-baraskar&show_icons=true&theme=buefy&hide_border=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrudula-baraskar&layout=compact&theme=buefy&hide_border=true" />
+</p>
 
 ---
 
-If you want, I can also add:
-✨ A dark brown animated banner
-✨ Aesthetic badges
-✨ Contribution graph styling
-✨ A short aesthetic ‘About Me’ section
+## 🔥 **GitHub Activity Graph**
 
-Just tell me!
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mrudula-baraskar&theme=github-light&hide_border=true" />
+</p>
+
+---
+
+## 📫 **Connect With Me**
+
+**LinkedIn:**
+[https://www.linkedin.com/in/mrudula-barasakar/](https://www.linkedin.com/in/mrudula-barasakar/)
+
+---
+
+### 🤎 *“Building skills, one commit at a time.”*
+
