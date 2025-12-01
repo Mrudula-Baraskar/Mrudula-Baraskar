@@ -1,19 +1,21 @@
 
-## ✨ Mrudula Baraskar
+# 💫 About Me:  
+**Hello! I'm Mrudula Baraskar, a BCA student passionate about technology and development.**
 
-**Aspiring Full-Stack Developer | BCA Student**
+##  :woman_technologist:I’m currently learning:  
+🔸 AI/ML Basics (NLP, Python)  
+🔸DSA in C++  
+🔸Web Development - HTML, CSS, Bootstrap & JavaScript 
 
-### 📘 Learning
+## 💻 Tech stack: 
+**Languages:**  
+<img src="https://skillicons.dev/icons?i=c" width="35"/> <img src="https://skillicons.dev/icons?i=cpp" width="35"/> <img src="https://skillicons.dev/icons?i=python" width="35"/> <img src="https://skillicons.dev/icons?i=js" width="35"/>
 
-JavaScript · Python · C++ · HTML · CSS · Bootstrap
+**Frontend:**  
+<img src="https://skillicons.dev/icons?i=html" width="35"/> <img src="https://skillicons.dev/icons?i=css" width="35"/> <img src="https://skillicons.dev/icons?i=bootstrap" width="35"/>
 
-### 🛠️ Tech Stack
+**Tools:**  
+<img src="https://skillicons.dev/icons?i=git" width="35"/> <img src="https://skillicons.dev/icons?i=github" width="35"/> <img src="https://skillicons.dev/icons?i=vscode" width="35"/> <img src="https://skillicons.dev/icons?i=notion" width="35"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,python,cpp,c,html,css,bootstrap,git,github,vscode" />
-</p>
-
-### 🔗 Connect
-
-LinkedIn: [https://www.linkedin.com/in/mrudula-barasakar/](https://www.linkedin.com/in/mrudula-barasakar/)
-
+## 🔗 Connect LinkedIn:  
+https://www.linkedin.com/in/mrudula-barasakar/
